@@ -2,6 +2,8 @@
 
 Easily add [LinkedIn Insight](https://business.linkedin.com/marketing-solutions/website-demographics) to your Gatsby site.
 
+## ⚠️ This plugin is not actively maintained anymore. Please use Thomas Metten's fork: https://github.com/tmttn/gatsby-plugin-linkedin-insight
+
 ## Install
 
 `npm install --save gatsby-plugin-linkedin-insight`
